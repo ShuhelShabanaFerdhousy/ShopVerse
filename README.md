@@ -70,10 +70,10 @@ shopverse/
 
 ## 🚧 Status
 
-🟢 Core microservices implemented
-🟢 Synchronous communication (Feign/WebClient) completed
-🟢 Asynchronous communication (Kafka) implemented
-🟡 Spring Security (JWT-based authentication) next phase
+* 🟢 Core microservices implemented
+* 🟢 Synchronous communication (Feign/WebClient) completed
+* 🟢 Asynchronous communication (Kafka) implemented
+* 🟡 Spring Security (JWT-based authentication) next phase
 
 ---
 

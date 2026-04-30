@@ -1,0 +1,25 @@
+# Eclipse
+.metadata/
+.settings/
+.project
+.classpath
+*.launch
+
+# Maven
+target/
+**/target/
+
+# Logs
+*.log
+logs/
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env

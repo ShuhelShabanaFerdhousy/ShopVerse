@@ -1,0 +1,9 @@
+package com.shopverse.product_service.exception;
+
+public class InsufficientStockException extends RuntimeException {
+	private static final long serialVersionUID = 1L;
+	
+	public InsufficientStockException(String message) {
+		super(message);
+	}
+}
